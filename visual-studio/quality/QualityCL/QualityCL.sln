@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QualityTest", "QualityTest\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apsetto1", "Apsetto1", "{D876BBE0-CB3A-4910-B553-3C47BD73C9E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsempiMoq", "EsempiMoq\EsempiMoq.csproj", "{EB2D3F63-1D45-49A3-8741-0DF90B06A716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EsempiMoq", "EsempiMoq\EsempiMoq.csproj", "{EB2D3F63-1D45-49A3-8741-0DF90B06A716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalTest", "FunctionalTest\FunctionalTest.csproj", "{8D3A7B15-D907-4AD1-BB85-A092AA9F3A49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{EB2D3F63-1D45-49A3-8741-0DF90B06A716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB2D3F63-1D45-49A3-8741-0DF90B06A716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB2D3F63-1D45-49A3-8741-0DF90B06A716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3A7B15-D907-4AD1-BB85-A092AA9F3A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3A7B15-D907-4AD1-BB85-A092AA9F3A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3A7B15-D907-4AD1-BB85-A092AA9F3A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3A7B15-D907-4AD1-BB85-A092AA9F3A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{94550321-5463-45A1-A46E-659819BE46AB} = {D876BBE0-CB3A-4910-B553-3C47BD73C9E2}
 		{13317C50-CE7E-4682-9254-A0E695456A07} = {D876BBE0-CB3A-4910-B553-3C47BD73C9E2}
 		{EB2D3F63-1D45-49A3-8741-0DF90B06A716} = {D876BBE0-CB3A-4910-B553-3C47BD73C9E2}
+		{8D3A7B15-D907-4AD1-BB85-A092AA9F3A49} = {D876BBE0-CB3A-4910-B553-3C47BD73C9E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2344AA31-173E-403A-867A-5EB358B4C7D5}
