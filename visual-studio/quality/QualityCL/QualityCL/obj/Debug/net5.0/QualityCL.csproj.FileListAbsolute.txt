@@ -1,0 +1,12 @@
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\bin\Debug\net5.0\QualityCL.deps.json
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\bin\Debug\net5.0\QualityCL.dll
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\bin\Debug\net5.0\ref\QualityCL.dll
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\bin\Debug\net5.0\QualityCL.pdb
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.AssemblyInfo.cs
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.dll
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\ref\QualityCL.dll
+C:\Users\andre\Desktop\Temp\Corsi\Centax\Quality\visual-studio\quality\QualityCL\QualityCL\obj\Debug\net5.0\QualityCL.pdb
